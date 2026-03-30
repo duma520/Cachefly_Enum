@@ -14,7 +14,6 @@
 
 <img width="1116" height="789" alt="image" src="https://github.com/user-attachments/assets/d082b9ca-c7e3-4d68-be73-a84fb0307b0d" />
 
-好的，我将为您撰写一份详尽的、面向所有用户的《CacheFly文件枚举检测工具——从零基础到高级应用完全指南》。这份文档将结合您提供的所有代码版本，并严格遵循您的要求。
 
 ---
 
